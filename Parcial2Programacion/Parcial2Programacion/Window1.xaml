@@ -1,0 +1,18 @@
+﻿<Window x:Class="Parcial2Programacion.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Parcial2Programacion"
+        mc:Ignorable="d"
+        Title="Window1" Height="500" Width="900">
+    <Grid>
+        <TextBox TextWrapping="Wrap" Text="" Margin="283,121,326,287" Name="Tex" TextChanged="Tex_TextChanged"/>
+        <TextBox TextWrapping="Wrap" Text="" Margin="283,186,326,222"/>
+        <TextBox TextWrapping="Wrap" Text="" Margin="283,267,326,141"/>
+        <Label Content="Nombre" Width="100" Height="30" Margin="283,86,417,318"/>
+        <Label Content="Descripcion" Width="100" Height="30" Margin="283,152,417,252"/>
+        <Label Content="Fecha" Width="100" Height="30" Margin="283,232,417,172"/>
+        <Button Content="Agregar" Width="100" Height="30" Margin="328,332,372,72" Click="Button_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\bin\Debug\Parcial2Programacion.exe.config
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\bin\Debug\Parcial2Programacion.exe
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\bin\Debug\Parcial2Programacion.pdb
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.csproj.AssemblyReference.cache
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\MainWindow.g.cs
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\App.g.cs
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion_MarkupCompile.cache
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion_MarkupCompile.lref
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\MainWindow.baml
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.g.resources
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.Properties.Resources.resources
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.csproj.GenerateResource.cache
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.exe
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Parcial2Programacion.pdb
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Window1.g.cs
+C:\Users\Cristofer Berganza\source\repos\Parcial2Programacion\Parcial2Programacion\obj\Debug\Window1.baml
